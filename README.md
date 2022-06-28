@@ -7,7 +7,7 @@ Extra features have been added since my initial version, including coloured outp
 ## Install
 
 ```
-git clone
+git clone https://github.com/mdprain/terminal-wordle
 cd terminal-wordle
 make
 ```
